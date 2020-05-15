@@ -59,33 +59,20 @@ ms_data.csv可以通过在```./process```下运行gather_data.pk得到
 
 代码结构:
 
-|- - str_code:
+str_code:
 
-​		| -- data
-
-​				| - - original_data
-
-​				| - - process_data
-
-​		|- - process(对数据进行预处理)：
-
-​				| - - extra_fid.py
-
-​				| - - gather_data.py
-
-​				| - - 
-
-​		| - - data_load(读取数据集)
-
-​				| - - load.py
-
-​		| - - models(模型文件)
-
-​				| - - model.py
-
-​		| - - train.py
-
-​		| - - utils.py(存放工具函数)
+* data
+  * original_data
+  * process_data
+*  process(对数据进行预处理)：
+  * extra_fid.py
+  *  gather_data.py
+* data_load(读取数据集)
+  * load.py
+* models(模型文件)
+  * model.py
+* train.py
+* utils.py(存放工具函数)
 
 ---
 
