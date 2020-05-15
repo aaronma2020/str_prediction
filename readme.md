@@ -80,4 +80,4 @@ str_code:
 
 baseline:
 
-![image-20200515121307706](/Users/mazheng/Desktop/project/结构预测/str_code/readme_pic/image-20200515121307706.png)
+![image-20200515121307706](./readme_pic/image-20200515121307706.png)
